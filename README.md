@@ -1,16 +1,14 @@
-## Hi there 👋
+# Tobias Nobile
 
-<!--
-**TobiasNobile/TobiasNobile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied ML on critical systems. Currently: Data Science Engineer apprentice at
+ArianeGroup, previously research intern at LORIA on uncertainty quantification
+for computer vision.
 
-Here are some ideas to get you started:
+**Paper** — *ALERT: Anomaly Localization & Early Real-Time Detection*, EGC 2027
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Selected work**
+- [`alert`](https://github.com/TobiasNobile/alert) — real-time anomaly detection with pixel-level localization
+- [`patchcore-loria`](https://github.com/TobiasNobile/patchcore-loria) — scaling PatchCore to 20k images
+- [`noah`](https://github.com/TobiasNobile/noah) — accessibility app, 3rd/547 at Mistral AI Worldwide Hackathon
+
+President of Neura'TN (AI/ML student club) · CETEN · Nancy, France
